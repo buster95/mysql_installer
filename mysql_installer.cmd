@@ -1,23 +1,24 @@
 @ECHO OFF
-color 0A
-REM BFCPEOPTIONSTART
-REM Advanced BAT to EXE Converter www.BatToExeConverter.com
-REM BFCPEEXE=D:\mysql8\start2.exe
-REM BFCPEICON=
-REM BFCPEICONINDEX=1
-REM BFCPEEMBEDDISPLAY=0
-REM BFCPEEMBEDDELETE=1
-REM BFCPEADMINEXE=1
-REM BFCPEINVISEXE=0
-REM BFCPEVERINCLUDE=0
-REM BFCPEVERVERSION=1.0.0.0
-REM BFCPEVERPRODUCT=Product Name
-REM BFCPEVERDESC=Product Description
-REM BFCPEVERCOMPANY=Your Company
-REM BFCPEVERCOPYRIGHT=Copyright Info
-REM BFCPEOPTIONEND
+REM  QBFC Project Options Begin
+REM HasVersionInfo: Yes
+REM Companyname: Kasaba Inc.
+REM Productname: MySQL Console Installer
+REM Filedescription: Instador de MySQL a nivel de consola
+REM Copyrights: 
+REM Trademarks: 
+REM Originalname: 
+REM Comments: 
+REM Productversion: 01.00.00.00
+REM Fileversion: 01.00.00.00
+REM Internalname: 
+REM ExeType: console
+REM Architecture: x86
+REM Appicon: mysql.ico
+REM AdministratorManifest: Yes
+REM  QBFC Project Options End
 @ECHO ON
 @echo off
+color 0A
 echo.
 echo                                            `....`                     
 echo                                             .`  ``...`                
